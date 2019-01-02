@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+my hobbies :
+-photo
+-woodwork
+-rpi
